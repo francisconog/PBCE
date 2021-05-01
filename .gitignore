@@ -1,0 +1,33 @@
+Last login: Fri Apr 30 14:31:03 on ttys004
+(base) franciscomatos@MBPdeFrancisco FortBrasil_PSDS %
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# Custom
+/prototype
+/data
+.DS_Store
