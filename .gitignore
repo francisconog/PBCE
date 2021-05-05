@@ -27,3 +27,4 @@ share/python-wheels/
 /prototype
 /data
 .DS_Store
+.ipynb_checkpoints/
